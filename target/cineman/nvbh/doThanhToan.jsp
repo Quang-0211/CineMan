@@ -89,5 +89,5 @@ session.removeAttribute("saleCustomer");
 session.removeAttribute("saleVoucher");
 session.removeAttribute("saleTicketIds");
 session.setAttribute("lastInvoice", invoice);
-response.sendRedirect("gdInVe.jsp");
+response.sendRedirect("gdNhanVienBanHang.jsp");
 %>
